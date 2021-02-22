@@ -1,4 +1,4 @@
-# ezWaitlist-java-spring
+# ezWaitlist-express
 Business solution for restaurants with dine-in waitlists. Message for list of dependencies and for usage.
 This web app was a project I started primarilty to familiarize myself with the Express framework. Utilizes
 Pug/Jade templating, and Node.js for routing and db calls. Utilizes EC2 Amazon Linux + MySQL RDS.
